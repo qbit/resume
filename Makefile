@@ -1,3 +1,5 @@
+DEST=akb.io:/var/www/deftly/
+
 all: lint pdf html
 
 lint:
@@ -8,3 +10,6 @@ pdf:
 
 html:
 	mandoc -T html resume.7 > resume.html
+
+publish: html
+	scp resume.html ${DEST}
