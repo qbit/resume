@@ -1,4 +1,8 @@
 DEST=akb.io:/var/www/deftly/
+SIGKEY=~/signify/primary.sec
+PUBKEY=~/signify/primary.pub
+SHA256=resume-SHA256
+SIG=resume-SHA256.sig
 
 all: lint pdf html
 
@@ -11,5 +15,14 @@ pdf:
 html:
 	mandoc -T html resume.7 > resume.html
 
-publish: html
-	scp resume.html ${DEST}
+sign:
+	@sha256 resume.* > ${SHA256}
+	@signify -S -s ${SIGKEY} -m ${SHA256} -x ${SIG}
+	@cat ${SHA256} >> ${SIG}
+
+verify:
+	@signify -C -p ${PUBKEY} -x ${SIG} resume.*
+
+publish: html sign
+	scp resume* ${DEST}
+
