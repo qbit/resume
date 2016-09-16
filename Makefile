@@ -23,6 +23,6 @@ sign:
 verify:
 	@signify -C -p ${PUBKEY} -x ${SIG} resume.*
 
-publish: html sign
+publish: lint pdf html sign
 	scp resume* ${DEST}
 
