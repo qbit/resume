@@ -1,5 +1,6 @@
-untrusted comment: verify with /home/qbit/signify/primary.pub
-RWRDQVAc3BqKG4Z1dZeOsX4UPhKaKIor2wo81vKBSysPtom8j93Nf5sk1gzCjA/IXcbqO70wA30qv39ycVCjIGa0WXWe46Q2KwM=
-SHA256 (resume.7) = d09cb3e56067c412e203e8137161cc082fa0f7555377570e17bb3d1f166cbe64
-SHA256 (resume.html) = 0ae0bbee9ae6a1fbb1fe28889e1239a4c754660cdda7fcfd94e2b7773194f025
-SHA256 (resume.pdf) = 3d0401816d2d0ca5ce4f2664f0422f5302ef51b990debf2a3071a732085389ad
+untrusted comment: verify with primary.pub
+RWRDQVAc3BqKG6MHoulFF68+qCxnGHRAng2lms+HlkCaqReUYoRYAjHGtA2cOv20MplHK2P1TKOG5LpR8KqTQNR6FcXqLMbLUAc=
+SHA256 (resume.7) = 39b5432078a5461094f22d6c735c6a2cc24a86fa57ddee6ef49a35a241ccc59f
+SHA256 (resume.css) = 0b4f8c170c820518a62d7cce0d398571e696b0cf94781e0133b2ce5e346dff02
+SHA256 (resume.html) = 69f78a9a3171f8e22a2fa2eec3a8721baa1b0c31fe4ce14b3be921026b212390
+SHA256 (resume.pdf) = ca8bbbb976a1056c77e01b8b53ad395294c7332ebd65e8424900bcc54c9afb90

@@ -13,7 +13,7 @@ pdf:
 	mandoc -T pdf resume.7 > resume.pdf
 
 html:
-	mandoc -T html resume.7 > resume.html
+	mandoc -T html -O style=resume.css resume.7 > resume.html
 
 sign:
 	@sha256 resume.* > ${SHA256}

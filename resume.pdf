@@ -2187,24 +2187,215 @@ endobj
 /Contents 11 0 R
 >>
 endobj
+15 0 obj
+<<
+/Length 16 0 R
+>>
+stream
+BT
+/F1 11 Tf
+68.013 702.834 Td
+(VERIFYING) Tj
+ET
+BT
+/F1 11 Tf
+133.705 702.834 Td
+(RESUME) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+81.763 687.445 Td
+(Download) Tj
+ET
+BT
+/F0 11 Tf
+130.339 687.445 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+146.531 687.445 Td
+(signature) Tj
+ET
+BT
+/F0 11 Tf
+189.607 687.445 Td
+(file) Tj
+ET
+BT
+/F0 11 Tf
+207.020 687.445 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+225.654 687.445 Td
+(public) Tj
+ET
+BT
+/F0 11 Tf
+255.904 687.445 Td
+(key:) Tj
+ET
+BT
+/F0 11 Tf
+87.263 672.056 Td
+(https://deftly.net/resume-SHA256.sig) Tj
+ET
+BT
+/F0 11 Tf
+87.263 656.667 Td
+(https://deftly.net/primary.pub) Tj
+ET
+BT
+/F0 11 Tf
+81.763 625.889 Td
+(Run) Tj
+ET
+BT
+/F0 11 Tf
+102.850 625.889 Td
+(signify:) Tj
+ET
+BT
+/F0 11 Tf
+81.763 610.500 Td
+(signify) Tj
+ET
+BT
+/F0 11 Tf
+115.071 610.500 Td
+(-C) Tj
+ET
+BT
+/F0 11 Tf
+128.821 610.500 Td
+(-p) Tj
+ET
+BT
+/F0 11 Tf
+140.734 610.500 Td
+(primary.pub) Tj
+ET
+BT
+/F0 11 Tf
+197.560 610.500 Td
+(-x) Tj
+ET
+BT
+/F0 11 Tf
+209.473 610.500 Td
+(resume-SHA256.sig) Tj
+ET
+BT
+/F0 11 Tf
+301.741 610.500 Td
+(resume.*) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+68.013 739.068 Td
+(BIEBER) Tj
+ET
+BT
+/F0 11 Tf
+109.879 739.068 Td
+(AARON\(7\)) Tj
+ET
+BT
+/F0 11 Tf
+229.845 739.068 Td
+(Miscellaneous) Tj
+ET
+BT
+/F0 11 Tf
+296.142 739.068 Td
+(Information) Tj
+ET
+BT
+/F0 11 Tf
+351.439 739.068 Td
+(Manual) Tj
+ET
+BT
+/F0 11 Tf
+450.329 739.068 Td
+(BIEBER) Tj
+ET
+BT
+/F0 11 Tf
+492.195 739.068 Td
+(AARON\(7\)) Tj
+ET
+BT
+/F0 11 Tf
+68.013 36.234 Td
+(OpenBSD) Tj
+ET
+BT
+/F0 11 Tf
+115.984 36.234 Td
+(6.0) Tj
+ET
+BT
+/F0 11 Tf
+281.776 36.234 Td
+(2016-09-14) Tj
+ET
+BT
+/F0 11 Tf
+482.405 36.234 Td
+(OpenBSD) Tj
+ET
+BT
+/F0 11 Tf
+530.376 36.234 Td
+(6.0) Tj
+ET
+ET
+endstream
+endobj
+16 0 obj
+1592
+endobj
+17 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font <<
+/F0 3 0 R
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+>>
+>>
+18 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 17 0 R
+/Contents 15 0 R
+>>
+endobj
 2 0 obj
 <<
 /Type /Pages
 /MediaBox [0 0 612 790]
-/Count 2
-/Kids [ 10 0 R 14 0 R]
+/Count 3
+/Kids [ 10 0 R 14 0 R 18 0 R]
 >>
 endobj
-15 0 obj
+19 0 obj
 <<
 /Type /Catalog
 /Pages 2 0 R
 >>
 xref
-0 16
+0 20
 0000000000 65535 f 
 0000000009 00000 n 
-0000020590 00000 n 
+0000022429 00000 n 
 0000000030 00000 n 
 0000000105 00000 n 
 0000000179 00000 n 
@@ -2217,13 +2408,17 @@ xref
 0000020397 00000 n 
 0000020418 00000 n 
 0000020507 00000 n 
-0000020680 00000 n 
+0000020590 00000 n 
+0000022236 00000 n 
+0000022257 00000 n 
+0000022346 00000 n 
+0000022526 00000 n 
 trailer
 <<
-/Size 16
-/Root 15 0 R
+/Size 20
+/Root 19 0 R
 /Info 1 0 R
 >>
 startxref
-20723
+22569
 %%EOF

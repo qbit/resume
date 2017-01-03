@@ -100,3 +100,12 @@ RWRDQVAc3BqKG0C3YdQPzBevFoyqIx1P1pWpYgpi5CbFyseRu8dPNxLm
 untrusted comment: github.com/qbit/snap public key
 RWQVGN6sUjQQA5uYpANGLLKQMAERZ43otLePFSVqNFGGtf/qBez7G1WU
 .Ed
+.Sh VERIFYING RESUME
+.Bd -literal
+Download the signature file and public key:
+  https://deftly.net/resume-SHA256.sig
+  https://deftly.net/primary.pub
+
+Run signify:
+signify -C -p primary.pub -x resume-SHA256.sig resume.*
+.Ed
