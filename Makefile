@@ -1,8 +1,9 @@
-DEST=akb.io:/var/www/deftly/
+DEST=hosting.bolddaemon.com:/var/www/deftly/
 SIGKEY=~/signify/primary.sec
 PUBKEY=~/signify/primary.pub
 SHA256=resume-SHA256
 SIG=resume-SHA256.sig
+ASC=resume-SHA256.asc
 
 all: lint pdf html
 
@@ -18,6 +19,7 @@ html:
 sign:
 	@sha256 resume.* > ${SHA256}
 	@signify -S -s ${SIGKEY} -m ${SHA256} -x ${SIG}
+	gpg2 --armor -o ${ASC} --detach-sig ${SHA256}
 	@cat ${SHA256} >> ${SIG}
 
 verify:
