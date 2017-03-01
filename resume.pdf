@@ -2012,11 +2012,11 @@ ET
 BT
 /F1 11 Tf
 68.013 210.386 Td
-(GPG) Tj
+(PGP) Tj
 ET
 BT
 /F1 11 Tf
-94.600 210.386 Td
+92.763 210.386 Td
 (KEY) Tj
 ET
 /F0 11 Tf
@@ -2397,160 +2397,6 @@ BT
 81.763 625.889 Td
 (RWRDQVAc3BqKG0C3YdQPzBevFoyqIx1P1pWpYgpi5CbFyseRu8dPNxLm) Tj
 ET
-/F1 11 Tf
-BT
-/F1 11 Tf
-68.013 595.111 Td
-(SIGNIFY) Tj
-ET
-BT
-/F1 11 Tf
-116.600 595.111 Td
-(KEY) Tj
-ET
-BT
-/F1 11 Tf
-143.187 595.111 Td
-(FOR) Tj
-ET
-BT
-/F1 11 Tf
-169.158 595.111 Td
-(SNAP) Tj
-ET
-/F0 11 Tf
-BT
-/F0 11 Tf
-81.763 579.722 Td
-(untrusted) Tj
-ET
-BT
-/F0 11 Tf
-125.455 579.722 Td
-(comment:) Tj
-ET
-BT
-/F0 11 Tf
-172.205 579.722 Td
-(github.com/qbit/snap) Tj
-ET
-BT
-/F0 11 Tf
-268.158 579.722 Td
-(public) Tj
-ET
-BT
-/F0 11 Tf
-298.408 579.722 Td
-(key) Tj
-ET
-BT
-/F0 11 Tf
-81.763 564.333 Td
-(RWQVGN6sUjQQA5uYpANGLLKQMAERZ43otLePFSVqNFGGtf/qBez7G1WU) Tj
-ET
-/F1 11 Tf
-BT
-/F1 11 Tf
-68.013 533.555 Td
-(VERIFYING) Tj
-ET
-BT
-/F1 11 Tf
-133.705 533.555 Td
-(RESUME) Tj
-ET
-/F0 11 Tf
-BT
-/F0 11 Tf
-81.763 518.166 Td
-(Download) Tj
-ET
-BT
-/F0 11 Tf
-130.339 518.166 Td
-(the) Tj
-ET
-BT
-/F0 11 Tf
-146.531 518.166 Td
-(signature) Tj
-ET
-BT
-/F0 11 Tf
-189.607 518.166 Td
-(file) Tj
-ET
-BT
-/F0 11 Tf
-207.020 518.166 Td
-(and) Tj
-ET
-BT
-/F0 11 Tf
-225.654 518.166 Td
-(public) Tj
-ET
-BT
-/F0 11 Tf
-255.904 518.166 Td
-(key:) Tj
-ET
-BT
-/F0 11 Tf
-87.263 502.777 Td
-(https://deftly.net/resume-SHA256.sig) Tj
-ET
-BT
-/F0 11 Tf
-87.263 487.388 Td
-(https://deftly.net/primary.pub) Tj
-ET
-BT
-/F0 11 Tf
-81.763 456.610 Td
-(Run) Tj
-ET
-BT
-/F0 11 Tf
-102.850 456.610 Td
-(signify:) Tj
-ET
-BT
-/F0 11 Tf
-81.763 441.221 Td
-(signify) Tj
-ET
-BT
-/F0 11 Tf
-115.071 441.221 Td
-(-C) Tj
-ET
-BT
-/F0 11 Tf
-128.821 441.221 Td
-(-p) Tj
-ET
-BT
-/F0 11 Tf
-140.734 441.221 Td
-(primary.pub) Tj
-ET
-BT
-/F0 11 Tf
-197.560 441.221 Td
-(-x) Tj
-ET
-BT
-/F0 11 Tf
-209.473 441.221 Td
-(resume-SHA256.sig) Tj
-ET
-BT
-/F0 11 Tf
-301.741 441.221 Td
-(resume.*) Tj
-ET
 /F0 11 Tf
 BT
 /F0 11 Tf
@@ -2616,7 +2462,7 @@ ET
 endstream
 endobj
 16 0 obj
-3002
+1444
 endobj
 17 0 obj
 <<
@@ -2653,7 +2499,7 @@ xref
 0 20
 0000000000 65535 f 
 0000000009 00000 n 
-0000024944 00000 n 
+0000023386 00000 n 
 0000000030 00000 n 
 0000000105 00000 n 
 0000000179 00000 n 
@@ -2667,10 +2513,10 @@ xref
 0000021523 00000 n 
 0000021612 00000 n 
 0000021695 00000 n 
-0000024751 00000 n 
-0000024772 00000 n 
-0000024861 00000 n 
-0000025041 00000 n 
+0000023193 00000 n 
+0000023214 00000 n 
+0000023303 00000 n 
+0000023483 00000 n 
 trailer
 <<
 /Size 20
@@ -2678,5 +2524,5 @@ trailer
 /Info 1 0 R
 >>
 startxref
-25084
+23526
 %%EOF
