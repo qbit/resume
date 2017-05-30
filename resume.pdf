@@ -1270,7 +1270,7 @@ ET
 BT
 /F0 11 Tf
 115.984 36.234 Td
-(6.0) Tj
+(6.1) Tj
 ET
 BT
 /F0 11 Tf
@@ -1285,7 +1285,7 @@ ET
 BT
 /F0 11 Tf
 530.376 36.234 Td
-(6.0) Tj
+(6.1) Tj
 ET
 ET
 endstream
@@ -1898,332 +1898,236 @@ ET
 BT
 /F2 11 Tf
 93.533 348.887 Td
-(Node.js:) Tj
+(Node.js) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+126.841 348.887 Td
+(:) Tj
 ET
 /F1 11 Tf
 BT
 /F1 11 Tf
-133.254 348.887 Td
+109.263 333.498 Td
 (https://github.com/nodejs/node/blob/master/AUTHORS) Tj
 ET
 /F0 11 Tf
 BT
 /F0 11 Tf
-398.508 348.887 Td
+92.763 318.109 Td
 (\(patches) Tj
 ET
 BT
 /F0 11 Tf
-437.910 348.887 Td
+132.165 318.109 Td
 (for) Tj
 ET
 BT
 /F0 11 Tf
-453.486 348.887 Td
+147.741 318.109 Td
 (OpenBSD) Tj
 ET
 BT
 /F0 11 Tf
-501.457 348.887 Td
+195.712 318.109 Td
 (support\),) Tj
 ET
 /F1 11 Tf
 BT
 /F1 11 Tf
-81.763 318.109 Td
+81.763 287.331 Td
 (+) Tj
 ET
 BT
 /F1 11 Tf
-82.148 318.109 Td
+82.148 287.331 Td
 (o) Tj
 ET
 /F2 11 Tf
 BT
 /F2 11 Tf
-93.533 318.109 Td
-(pushover-notifications:) Tj
+93.533 287.331 Td
+(pushover-notifications) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+192.533 287.331 Td
+(:) Tj
 ET
 /F1 11 Tf
 BT
 /F1 11 Tf
-198.946 318.109 Td
+109.263 271.942 Td
 (https://www.npmjs.com/package/pushover-notifications) Tj
 ET
 BT
 /F1 11 Tf
-68.013 287.331 Td
+68.013 241.164 Td
 (SEE) Tj
 ET
 BT
 /F1 11 Tf
-91.553 287.331 Td
+91.553 241.164 Td
 (ALSO) Tj
 ET
 BT
 /F1 11 Tf
-81.763 271.942 Td
+81.763 225.775 Td
 (+) Tj
 ET
 BT
 /F1 11 Tf
-82.148 271.942 Td
+82.148 225.775 Td
 (o) Tj
 ET
 /F2 11 Tf
 BT
 /F2 11 Tf
-93.533 271.942 Td
+93.533 225.775 Td
 (Github) Tj
 ET
 BT
 /F2 11 Tf
-126.841 271.942 Td
-(profile:) Tj
+126.841 225.775 Td
+(profile) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+156.178 225.775 Td
+(:) Tj
 ET
 /F1 11 Tf
 BT
 /F1 11 Tf
-162.591 271.942 Td
+109.263 210.386 Td
 (https://github.com/qbit) Tj
 ET
 BT
 /F1 11 Tf
-81.763 241.164 Td
+81.763 179.608 Td
 (+) Tj
 ET
 BT
 /F1 11 Tf
-82.148 241.164 Td
+82.148 179.608 Td
 (o) Tj
 ET
 /F2 11 Tf
 BT
 /F2 11 Tf
-93.533 241.164 Td
-(Homepage:) Tj
+93.533 179.608 Td
+(Homepage) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+141.185 179.608 Td
+(:) Tj
 ET
 /F1 11 Tf
 BT
 /F1 11 Tf
-147.598 241.164 Td
+109.263 164.219 Td
 (https://deftly.net) Tj
 ET
 BT
 /F1 11 Tf
-68.013 210.386 Td
+68.013 133.441 Td
 (PGP) Tj
 ET
 BT
 /F1 11 Tf
-92.763 210.386 Td
+92.763 133.441 Td
 (KEY) Tj
 ET
 /F0 11 Tf
 BT
 /F0 11 Tf
-81.763 194.997 Td
+81.763 118.052 Td
 (pub) Tj
 ET
 BT
 /F0 11 Tf
-106.513 194.997 Td
+106.513 118.052 Td
 (rsa4096/0x1F81112D62A9ADCE) Tj
 ET
 BT
 /F0 11 Tf
-259.589 194.997 Td
+259.589 118.052 Td
 (2017-01-27) Tj
 ET
 BT
 /F0 11 Tf
-313.665 194.997 Td
+313.665 118.052 Td
 ([SC]) Tj
 ET
 BT
 /F0 11 Tf
-98.263 179.608 Td
+98.263 102.663 Td
 (Key) Tj
 ET
 BT
 /F0 11 Tf
-119.339 179.608 Td
+119.339 102.663 Td
 (fingerprint) Tj
 ET
 BT
 /F0 11 Tf
-169.136 179.608 Td
+169.136 102.663 Td
 (=) Tj
 ET
 BT
 /F0 11 Tf
-178.090 179.608 Td
+178.090 102.663 Td
 (3586) Tj
 ET
 BT
 /F0 11 Tf
-202.840 179.608 Td
+202.840 102.663 Td
 (3350) Tj
 ET
 BT
 /F0 11 Tf
-227.590 179.608 Td
+227.590 102.663 Td
 (BFEA) Tj
 ET
 BT
 /F0 11 Tf
-258.456 179.608 Td
+258.456 102.663 Td
 (C101) Tj
 ET
 BT
 /F0 11 Tf
-285.043 179.608 Td
+285.043 102.663 Td
 (DB1A) Tj
 ET
 BT
 /F0 11 Tf
-319.264 179.608 Td
+319.264 102.663 Td
 (4AF0) Tj
 ET
 BT
 /F0 11 Tf
-347.072 179.608 Td
+347.072 102.663 Td
 (1F81) Tj
 ET
 BT
 /F0 11 Tf
-372.438 179.608 Td
+372.438 102.663 Td
 (112D) Tj
 ET
 BT
 /F0 11 Tf
-399.630 179.608 Td
+399.630 102.663 Td
 (62A9) Tj
 ET
 BT
 /F0 11 Tf
-426.822 179.608 Td
+426.822 102.663 Td
 (ADCE) Tj
-ET
-BT
-/F0 11 Tf
-81.763 164.219 Td
-(uid) Tj
-ET
-BT
-/F0 11 Tf
-148.071 164.219 Td
-([ultimate]) Tj
-ET
-BT
-/F0 11 Tf
-194.205 164.219 Td
-(Aaron) Tj
-ET
-BT
-/F0 11 Tf
-224.444 164.219 Td
-(Bieber) Tj
-ET
-BT
-/F0 11 Tf
-256.520 164.219 Td
-(<abieber@openbsd.org>) Tj
-ET
-BT
-/F0 11 Tf
-81.763 148.830 Td
-(uid) Tj
-ET
-BT
-/F0 11 Tf
-148.071 148.830 Td
-([ultimate]) Tj
-ET
-BT
-/F0 11 Tf
-194.205 148.830 Td
-(Aaron) Tj
-ET
-BT
-/F0 11 Tf
-224.444 148.830 Td
-(Bieber) Tj
-ET
-BT
-/F0 11 Tf
-256.520 148.830 Td
-(<aaron@bolddaemon.com>) Tj
-ET
-BT
-/F0 11 Tf
-81.763 133.441 Td
-(uid) Tj
-ET
-BT
-/F0 11 Tf
-148.071 133.441 Td
-([ultimate]) Tj
-ET
-BT
-/F0 11 Tf
-194.205 133.441 Td
-(Aaron) Tj
-ET
-BT
-/F0 11 Tf
-224.444 133.441 Td
-(Bieber) Tj
-ET
-BT
-/F0 11 Tf
-256.520 133.441 Td
-(<deftly@gmail.com>) Tj
-ET
-BT
-/F0 11 Tf
-81.763 118.052 Td
-(uid) Tj
-ET
-BT
-/F0 11 Tf
-148.071 118.052 Td
-([ultimate]) Tj
-ET
-BT
-/F0 11 Tf
-194.205 118.052 Td
-(Aaron) Tj
-ET
-BT
-/F0 11 Tf
-224.444 118.052 Td
-(Bieber) Tj
-ET
-BT
-/F0 11 Tf
-256.520 118.052 Td
-(<qbit@deftly.net>) Tj
-ET
-BT
-/F0 11 Tf
-81.763 102.663 Td
-(sub) Tj
-ET
-BT
-/F0 11 Tf
-105.292 102.663 Td
-(rsa4096/0x279160AB1BE1236B) Tj
-ET
-BT
-/F0 11 Tf
-254.100 102.663 Td
-(2017-01-27) Tj
-ET
-BT
-/F0 11 Tf
-308.176 102.663 Td
-([S]) Tj
 ET
 /F0 11 Tf
 BT
@@ -2269,7 +2173,7 @@ ET
 BT
 /F0 11 Tf
 115.984 36.234 Td
-(6.0) Tj
+(6.1) Tj
 ET
 BT
 /F0 11 Tf
@@ -2284,13 +2188,13 @@ ET
 BT
 /F0 11 Tf
 530.376 36.234 Td
-(6.0) Tj
+(6.1) Tj
 ET
 ET
 endstream
 endobj
 12 0 obj
-9217
+8225
 endobj
 13 0 obj
 <<
@@ -2318,83 +2222,228 @@ stream
 BT
 /F0 11 Tf
 81.763 702.834 Td
-(sub) Tj
+(uid) Tj
 ET
 BT
 /F0 11 Tf
-105.292 702.834 Td
-(rsa4096/0x20ADADE0DD48B109) Tj
+148.071 702.834 Td
+([ultimate]) Tj
 ET
 BT
 /F0 11 Tf
-262.636 702.834 Td
-(2017-01-27) Tj
+194.205 702.834 Td
+(Aaron) Tj
 ET
 BT
 /F0 11 Tf
-316.712 702.834 Td
-([E]) Tj
+224.444 702.834 Td
+(Bieber) Tj
+ET
+BT
+/F0 11 Tf
+256.520 702.834 Td
+(<aaron@bolddaemon.com>) Tj
 ET
 BT
 /F0 11 Tf
 81.763 687.445 Td
+(uid) Tj
+ET
+BT
+/F0 11 Tf
+148.071 687.445 Td
+([ultimate]) Tj
+ET
+BT
+/F0 11 Tf
+194.205 687.445 Td
+(Aaron) Tj
+ET
+BT
+/F0 11 Tf
+224.444 687.445 Td
+(Bieber) Tj
+ET
+BT
+/F0 11 Tf
+256.520 687.445 Td
+(<deftly@gmail.com>) Tj
+ET
+BT
+/F0 11 Tf
+81.763 672.056 Td
+(uid) Tj
+ET
+BT
+/F0 11 Tf
+148.071 672.056 Td
+([ultimate]) Tj
+ET
+BT
+/F0 11 Tf
+194.205 672.056 Td
+(Aaron) Tj
+ET
+BT
+/F0 11 Tf
+224.444 672.056 Td
+(Bieber) Tj
+ET
+BT
+/F0 11 Tf
+256.520 672.056 Td
+(<qbit@deftly.net>) Tj
+ET
+BT
+/F0 11 Tf
+81.763 656.667 Td
+(uid) Tj
+ET
+BT
+/F0 11 Tf
+148.071 656.667 Td
+([ultimate]) Tj
+ET
+BT
+/F0 11 Tf
+194.205 656.667 Td
+(Aaron) Tj
+ET
+BT
+/F0 11 Tf
+224.444 656.667 Td
+(Bieber) Tj
+ET
+BT
+/F0 11 Tf
+256.520 656.667 Td
+(<abieber@openbsd.org>) Tj
+ET
+BT
+/F0 11 Tf
+81.763 641.278 Td
+(uid) Tj
+ET
+BT
+/F0 11 Tf
+148.071 641.278 Td
+([ultimate]) Tj
+ET
+BT
+/F0 11 Tf
+194.205 641.278 Td
+(Aaron) Tj
+ET
+BT
+/F0 11 Tf
+224.444 641.278 Td
+(Bieber) Tj
+ET
+BT
+/F0 11 Tf
+256.520 641.278 Td
+(<aaron@cobug.org>) Tj
+ET
+BT
+/F0 11 Tf
+81.763 625.889 Td
 (sub) Tj
 ET
 BT
 /F0 11 Tf
-105.292 687.445 Td
-(rsa4096/0x4FA951575F92D3E2) Tj
+105.292 625.889 Td
+(rsa4096/0x279160AB1BE1236B) Tj
 ET
 BT
 /F0 11 Tf
-252.263 687.445 Td
+254.100 625.889 Td
 (2017-01-27) Tj
 ET
 BT
 /F0 11 Tf
-306.339 687.445 Td
+308.176 625.889 Td
+([S]) Tj
+ET
+BT
+/F0 11 Tf
+81.763 610.500 Td
+(sub) Tj
+ET
+BT
+/F0 11 Tf
+105.292 610.500 Td
+(rsa4096/0x20ADADE0DD48B109) Tj
+ET
+BT
+/F0 11 Tf
+262.636 610.500 Td
+(2017-01-27) Tj
+ET
+BT
+/F0 11 Tf
+316.712 610.500 Td
+([E]) Tj
+ET
+BT
+/F0 11 Tf
+81.763 595.111 Td
+(sub) Tj
+ET
+BT
+/F0 11 Tf
+105.292 595.111 Td
+(rsa4096/0x4FA951575F92D3E2) Tj
+ET
+BT
+/F0 11 Tf
+252.263 595.111 Td
+(2017-01-27) Tj
+ET
+BT
+/F0 11 Tf
+306.339 595.111 Td
 ([A]) Tj
 ET
 /F1 11 Tf
 BT
 /F1 11 Tf
-68.013 656.667 Td
+68.013 564.333 Td
 (SIGNIFY) Tj
 ET
 BT
 /F1 11 Tf
-116.600 656.667 Td
+116.600 564.333 Td
 (KEY) Tj
 ET
 /F0 11 Tf
 BT
 /F0 11 Tf
-81.763 641.278 Td
+81.763 548.944 Td
 (untrusted) Tj
 ET
 BT
 /F0 11 Tf
-125.455 641.278 Td
+125.455 548.944 Td
 (comment:) Tj
 ET
 BT
 /F0 11 Tf
-172.205 641.278 Td
+172.205 548.944 Td
 (signify) Tj
 ET
 BT
 /F0 11 Tf
-205.513 641.278 Td
+205.513 548.944 Td
 (public) Tj
 ET
 BT
 /F0 11 Tf
-235.763 641.278 Td
+235.763 548.944 Td
 (key) Tj
 ET
 BT
 /F0 11 Tf
-81.763 625.889 Td
+81.763 533.555 Td
 (RWRDQVAc3BqKG0C3YdQPzBevFoyqIx1P1pWpYgpi5CbFyseRu8dPNxLm) Tj
 ET
 /F0 11 Tf
@@ -2441,7 +2490,7 @@ ET
 BT
 /F0 11 Tf
 115.984 36.234 Td
-(6.0) Tj
+(6.1) Tj
 ET
 BT
 /F0 11 Tf
@@ -2456,13 +2505,13 @@ ET
 BT
 /F0 11 Tf
 530.376 36.234 Td
-(6.0) Tj
+(6.1) Tj
 ET
 ET
 endstream
 endobj
 16 0 obj
-1444
+2884
 endobj
 17 0 obj
 <<
@@ -2499,7 +2548,7 @@ xref
 0 20
 0000000000 65535 f 
 0000000009 00000 n 
-0000023386 00000 n 
+0000023834 00000 n 
 0000000030 00000 n 
 0000000105 00000 n 
 0000000179 00000 n 
@@ -2509,14 +2558,14 @@ xref
 0000012062 00000 n 
 0000012150 00000 n 
 0000012231 00000 n 
-0000021502 00000 n 
-0000021523 00000 n 
-0000021612 00000 n 
-0000021695 00000 n 
-0000023193 00000 n 
-0000023214 00000 n 
-0000023303 00000 n 
-0000023483 00000 n 
+0000020510 00000 n 
+0000020531 00000 n 
+0000020620 00000 n 
+0000020703 00000 n 
+0000023641 00000 n 
+0000023662 00000 n 
+0000023751 00000 n 
+0000023931 00000 n 
 trailer
 <<
 /Size 20
@@ -2524,5 +2573,5 @@ trailer
 /Info 1 0 R
 >>
 startxref
-23526
+23974
 %%EOF
