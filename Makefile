@@ -1,4 +1,4 @@
-DEST=hosting.bolddaemon.com:/var/www/deftly/
+DEST=web.akb.io:/var/www/deftly/
 SIGKEY=~/signify/primary.sec
 PUBKEY=~/signify/primary.pub
 SHA256=resume-SHA256
